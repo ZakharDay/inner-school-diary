@@ -14,3 +14,8 @@ p {
   margin: auto;
   color: white;
 }
+
+img {
+  margin: auto;
+  max-height: 80vh;
+}
